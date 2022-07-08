@@ -1,0 +1,8 @@
+ru\netology\danilagafonov\rest\controller\AuthorizationController.class
+ru\netology\danilagafonov\rest\configurations\JavaConfig.class
+ru\netology\danilagafonov\rest\exception\UnauthorizedUser.class
+ru\netology\danilagafonov\rest\RestApplication.class
+ru\netology\danilagafonov\rest\authorities\Authorities.class
+ru\netology\danilagafonov\rest\repository\UserRepository.class
+ru\netology\danilagafonov\rest\exception\InvalidCredentials.class
+ru\netology\danilagafonov\rest\service\AuthorizationService.class
